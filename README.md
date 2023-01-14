@@ -19,4 +19,4 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-santos-Sousa)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))<br/><br/>
-- Confira meus projetos em meus repositórios.
+- 💻 Confira meus projetos em meus repositórios.
