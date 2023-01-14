@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
 
-[![Iago-Santos-Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=Iago-santos-Sousa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Iago-Santos-Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=Iago-Santos-Sousa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso.
 
