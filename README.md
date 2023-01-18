@@ -20,9 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Santos-Sousa)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))<br/><br/>
 ### 💻 Confira alguns dos meus projetos em meus repositórios.<br/>
-- Calculadora: https://iago-santos-sousa.github.io/Calculadora-JS/
-- To do list: https://iago-santos-sousa.github.io/To-do-list/
-- Consumo de API simples: https://iago-santos-sousa.github.io/API-exibir-ip/
+
 <br/>
-### Meu portfólio!
+### Minha apresentação!
 - https://iago-santos-sousa.github.io/Meu-Portfolio/#inicio
