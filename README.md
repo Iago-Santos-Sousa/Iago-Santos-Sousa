@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Santos-Sousa)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))<br/><br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Santos-Sousa&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))<br/><br/>
 ### 💻 Confira alguns dos meus projetos em meus repositórios.<br/>
 
 <br/>
