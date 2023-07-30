@@ -22,7 +22,7 @@
 </div>
 </div>
 
-## Status:
+## ⭐ Status:
 </hr>
 <div align="center">
 <a href="https://github.com/Gurupreet">
@@ -33,10 +33,11 @@
 
 <h3 align="center">💻 Confira alguns dos meus projetos em meus repositórios.</h3>
 </br>
-<p align="">➡️ Minha apresentação!</p>
-<p align="">😊 https://iago-santos-sousa.github.io/Minha-Apresentacao/</p>
+➡️ Minha apresentação: https://iago-santos-sousa.github.io/Minha-Apresentacao/</p>
+<p align=""> </p>
+<p align="">
 
-## Onde me encontrar:
+## 😄 Onde me encontrar:
 </hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-dos-santos-sousa-585026236/)
