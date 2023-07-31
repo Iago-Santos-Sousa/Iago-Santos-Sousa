@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Iago! ✌️</h1>
+<h1 align="center">Olá, eu sou o Iago! ✌</h1>
 </hr>
 
-<h3 align="">🏴 Tecnologias que utilizo:</h3>
+## 🏴 Tecnologias que utilizo:
 </hr>
 
 <div align="center">
