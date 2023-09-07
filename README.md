@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Iago! ✌</h1>
+<h1 align="center">Hi, I'm Iago! ✌</h1>
 </hr>
 
-## 🏴 Tecnologias que utilizo:
+## 🏴 Technologies I use:
 </hr>
 
 <div align="center">
@@ -31,13 +31,13 @@
 <img align="top" width="300" height="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 </div>
 
-<h3 align="center">💻 Confira alguns dos meus projetos em meus repositórios.</h3>
+<h3 align="center">💻 Check out some of my projects in my repositories.</h3>
 </br>
-➡️ Minha apresentação: https://iago-santos-sousa.github.io/Minha-Apresentacao/</p>
+➡️ My presentation: https://iago-santos-sousa.github.io/Minha-Apresentacao/</p>
 <p align=""> </p>
 <p align="">
 
-## 😄 Onde me encontrar:
+## 😄 Where to find me:
 </hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-dos-santos-sousa-585026236/)
