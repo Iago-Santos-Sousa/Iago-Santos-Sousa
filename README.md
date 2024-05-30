@@ -28,7 +28,7 @@
 <a href="https://github.com/Gurupreet">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Santos-Sousa&theme=dracula&hide_langs_below=1" />
 </a>
-<img align="top" width="300" height="280" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="top" width="300" height="280" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTcxMDgxMDgsIm5iZiI6MTcxNzEwNzgwOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTMwVDIyMjMyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyZDhiZTI2ZTRkY2JhZDUwZDcyYmVjM2YzMzFiMDUzNmVjMjk3MzQwY2Y2NzUxYjcxNWNiMjQ1MWRhZWZmMmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Vt5ysYXFjLkZLsQpRHm2eTCv9uXntHjaS9iEcqeN2M8" />
 </div>
 
 <h3 align="center">💻 Check out some of my projects in my repositories.</h3>
