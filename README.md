@@ -33,7 +33,8 @@
 <a href="https://github.com/Gurupreet">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Santos-Sousa&theme=dracula&hide_langs_below=1" />
 </a>
-<img align="top" width="300" height="280" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1MTQ0ODcsIm5iZiI6MTcxNzUxNDE4NywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA0VDE1MTYyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhNDhlNTkzY2MyYTE3MWY1N2QyZGJmYjYzNzNhNmFkNDJhNmRkNzA3N2RkYjMyNjkwMmYzYTQxNWY1NzFhYjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Av2nul9ddgRvcyxpstfu4fNzl4ZaEXy2iFgotlYoZ-8" />
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="345" heigth="345">
+<br><br>
 </div>
 
 <h3 align="center">💻 Check out some of my projects in my repositories.</h3>
