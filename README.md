@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm Iago! ✌</h1>
 </hr>
 
+<div>
+  <p align="justify">
+    I'm a Junior Full-Stack Developer with experience in creating and integrating robust and efficient web applications. I have a solid foundation in front-end and back-end     development, using modern technologies to build intuitive user interfaces and scalable APIs. With a focus on best development practices, performance, and accessibility,     I strive to continuously improve my skills and contribute to challenging and innovative projects.
+  </p>
+</div>
+
 ## 🏴 Technologies I use:
 </hr>
 
